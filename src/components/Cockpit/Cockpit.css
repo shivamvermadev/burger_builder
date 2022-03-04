@@ -1,0 +1,18 @@
+.CockPit {
+    text-align: center;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+
+  .login {
+    border: none;
+    padding: 10px;
+    background-color: aqua;
+    color: crimson;
+  }

@@ -1,0 +1,35 @@
+.Person {
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 20px;  
+    box-shadow: 0 2px 3px #eee;
+    margin: 10px 10px;
+    text-align: center;
+    margin:auto;
+    margin-bottom: 20px;
+    border-radius: 7px;
+    box-shadow: #ccc;
+}
+
+.inputStyle:focus{
+    border: solid 1px blue;
+}
+
+.inputStyle:hover {
+    border: solid 2px red;
+}
+
+.primary-button {
+    border: none;
+    background: #BAB9EE;
+    color: #001441;
+    padding: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.primary-button:hover {
+    background: #5bc0de;
+    color: 	#555555;
+    border: 1px solid #a3c1ad;
+}
